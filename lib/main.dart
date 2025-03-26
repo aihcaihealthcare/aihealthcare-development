@@ -121,7 +121,7 @@ class OnboardingScreen extends StatelessWidget {
               height: 50,
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Color(0xFFE30652), // Pink color
+                  backgroundColor: Color(0xFFE70500), // Pink color
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(25),
                   ),
@@ -197,7 +197,7 @@ class _LogoVideoScreenState extends State<LogoVideoScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.red,
+      backgroundColor: Color(0xFFE00047),
       body: Center(
         child:
             _controller.value.isInitialized
