@@ -38,6 +38,9 @@ With real-time notifications, instant matching, and a supportive community, the 
 
 <p align="center">
 <img src="https://i.imghippo.com/files/gwb2810TZU.png" alt="" border="0">
+  
+  <img src="https://i.imghippo.com/files/fHla3850Q.png" alt="" border="0" width="230" height="225"  style="display: block; margin: 0 auto;">
+
 <img src="https://i.imghippo.com/files/yCxJ4815BpM.png" alt="" border="0">
 <img src="https://i.imghippo.com/files/c2364JZ.png" alt="" border="0">
 </p>
