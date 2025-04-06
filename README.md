@@ -285,3 +285,6 @@ User find available blood and connect with donors instantly.
 ## 🤝 Contributors
 We are the core team of AI-Health-Care , from Deogiri Institute of Engineering and Management Studies, Chh. Sambhajinagar.
 
+
+<img src="https://i.imghippo.com/files/gP4140uks.png" alt="" border="0">
+
