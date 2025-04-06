@@ -30,21 +30,20 @@ With real-time notifications, instant matching, and a supportive community, the 
 
 ## Intro To AI-Health-Care Video
 
-[![Intro To SpoonShare](https://i.imghippo.com/files/fTnl6839vIo.png)
-](https://youtu.be/fagBxXos7xE?si=9cu-mIE4HgC6I54P)
+[![Intro To Ai health care](https://i.imghippo.com/files/fTnl6839vIo.png)
+](https://youtu.be/w6ruuZAm0KI?si=9ZzUFIkJWMKaTi2j)
 
 
 ### Our Target SDG Goals 🎯
 
+AI-Health-Care App is a life-saving Android application designed to revolutionize how we connect blood donors with those in urgent need. Our mission is to eliminate delays in blood availability, ensuring that every life is protected during critical moments. By fostering a community of regular donors and offering real-time access to blood resources, we aim to make the donation process seamless, efficient, and impactful. This initiative aligns with the United Nations Sustainable Development Goals, including SDG 3 (Good Health and Well-being), SDG 9 (Industry, Innovation, and Infrastructure), SDG 10 (Reduced Inequalities), and SDG 17 (Partnerships for the Goals), working towards a future where no one has to wait for blood when every second counts.
+
 <p align="center">
 <img src="https://i.imghippo.com/files/gwb2810TZU.png" alt="" border="0">
-  
-  <img src="https://i.imghippo.com/files/fHla3850Q.png" alt="" border="0" width="230" height="225"  style="display: block; margin: 0 auto;">
-
+<img src="https://i.imghippo.com/files/fHla3850Q.png" alt="" border="0" width="230" height="225"  style="display: block; margin: 0 auto;">
 <img src="https://i.imghippo.com/files/yCxJ4815BpM.png" alt="" border="0">
 <img src="https://i.imghippo.com/files/c2364JZ.png" alt="" border="0">
 </p>
-AI-Health-Care App is a life-saving Android app designed to revolutionize how we connect blood donors with those in urgent need. Our mission is to eliminate the delays in blood availability, ensuring that every life is protected in critical moments. By fostering a community of regular donors and providing real-time access to blood resources, we aim to make blood donations seamless, efficient, and impactful. Join us in supporting UN Sustainable Development Goal 3 (Good Health and Well-being) by 2030. Together, we can build a world where no one has to wait for blood when every second counts.
 
 
 
@@ -282,10 +281,8 @@ User find available blood and connect with donors instantly.
 
 
 
-# Hello, We are AITRONICS
+# Hello, we are AITRONICS!
 ## 🤝 Contributors
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar and Core Team Members of the  AI-Health-Care Team [GDSC DIEMS](https://gdsc.community.dev/deogiri-institute-of-engineering-and-management-studies-aurangabad/)
+We are the core team of AI-Health-Care , from Deogiri Institute of Engineering and Management Studies, Chh. Sambhajinagar.
 
-
-     
 
