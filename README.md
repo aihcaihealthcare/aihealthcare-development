@@ -1,8 +1,3 @@
-
-# aihealthcare-development
-yashraj  
-flutter project
-
 # AI-Health-Care
 
 ## 💡 Introduction
